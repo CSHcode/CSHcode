@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-***
+
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20My%20name%20is%20SungHwan%20Cho!&fontAlign=50&fontAlignY=30&color=auto&fontSize=40)
 ***
