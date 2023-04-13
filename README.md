@@ -12,7 +12,7 @@
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20My%20name%20is%20SungHwan%20Cho!&fontAlign=50&fontAlignY=30&color=auto&fontSize=40)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20My%20name%20is%20SungHwan%20Cho!&fontAlign=50&fontAlignY=30&color=gradient&fontSize=40)
 ***
 
 ### :hammer_and_wrench: Languages and Tools :
