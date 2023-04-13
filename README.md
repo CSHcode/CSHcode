@@ -35,5 +35,4 @@
 
 ***
 
-### :fire: My Stats :
 
